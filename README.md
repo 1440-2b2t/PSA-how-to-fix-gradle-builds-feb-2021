@@ -7,6 +7,6 @@ This is the error you get if you try to compile a forge mod rn
 
 The problem lies in your build.gradle file, The server has switched from a http protocal to a https protocal so in your build.gradle file change all of the urls that have the word SPONGE in them. DONT change any of the other urls. (There are normally 2 urls)
 
-![Pic](https://raw.githubusercontent.com/Gopro336/PSA-how-to-fix-gradle-builds-feb-2021/master/url.png?token=APBTGEANBQV6X2YMP4X5QSDADDEFA)
-![Pic](https://raw.githubusercontent.com/Gopro336/PSA-how-to-fix-gradle-builds-feb-2021/master/url2.png?token=APBTGEANBQV6X2YMP4X5QSDADDEFA)
+![Pic](https://media.discordapp.net/attachments/712745558673981510/806005076602257408/url.png)
+![Pic](https://media.discordapp.net/attachments/712745558673981510/806005089751924756/url2.png)
 
