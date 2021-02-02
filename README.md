@@ -10,7 +10,8 @@ The problem lies in your build.gradle file, The server has switched from a http 
 ![Pic](https://media.discordapp.net/attachments/712745558673981510/806005076602257408/url.png)
 ![Pic](https://media.discordapp.net/attachments/712745558673981510/806005089751924756/url2.png)
 
-example: https://repo.spongepowered.org
+Change http://repo.spongepowered.org/maven
+to https://repo.spongepowered.org/repository/maven-public/
 
 Hope this helps!
 
