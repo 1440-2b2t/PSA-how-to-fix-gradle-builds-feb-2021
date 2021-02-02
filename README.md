@@ -10,3 +10,10 @@ The problem lies in your build.gradle file, The server has switched from a http 
 ![Pic](https://media.discordapp.net/attachments/712745558673981510/806005076602257408/url.png)
 ![Pic](https://media.discordapp.net/attachments/712745558673981510/806005089751924756/url2.png)
 
+example: https://repo.spongepowered.org
+
+Hope this helps!
+
+
+Star and share!
+
