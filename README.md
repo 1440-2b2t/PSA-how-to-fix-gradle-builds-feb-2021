@@ -13,6 +13,13 @@ The problem lies in your build.gradle file, The server has switched from a http 
 Change http://repo.spongepowered.org/maven
 to https://repo.spongepowered.org/repository/maven-public/
 
+
+or do it the chad way
+
+
+Change http://repo.spongepowered.org/maven
+to https://repo.spongepowered.org/maven
+
 Hope this helps!
 
 Star and share!
